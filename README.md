@@ -1,4 +1,6 @@
 Silent Shopper 🛍️
+
+
 Silent Shopper is an AI‑powered affiliate shopping assistant. It automatically recommends the best deals from Amazon, eBay, TikTok, Awin, and other platforms, based on customer needs.
 
 The project includes:
